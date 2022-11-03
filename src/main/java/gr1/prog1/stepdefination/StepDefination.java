@@ -25,7 +25,7 @@ public class StepDefination {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("navigate");
 		
-		WebDriverManager.chromedriver().driverVersion("107").setup();
+		WebDriverManager.chromedriver().driverVersion("106").setup();
 		driver = new ChromeDriver();
 		// Navigate to the demoqa website
 		driver.get("https://www.demoqa.com");
