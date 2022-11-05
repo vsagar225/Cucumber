@@ -12,3 +12,5 @@ Feature: validate the login functionality
    
    # scenario out line to be added here
    
+   # scenrio 3 to be added here
+   
