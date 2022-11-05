@@ -10,4 +10,5 @@ Feature: validate the login functionality
  #When click  on sign in link
    #dddd
    
+   # scenario out line to be added here
    
